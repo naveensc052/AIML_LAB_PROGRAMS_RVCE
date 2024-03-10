@@ -2,11 +2,11 @@
 
 ## Lab Programs
 
-1. [1.ipynb](link_to_1.ipynb)
-2. [2.ipynb](link_to_2.ipynb)
-3. [3.ipynb](link_to_3.ipynb)
-4. [4.ipynb](link_to_4.ipynb) 
-5. [5.ipynb](link_to_5.ipynb)
-6. [6.ipynb](link_to_6.ipynb)
-7. [7.ipynb](link_to_7.ipynb)
-8. [8.ipynb](link_to_8.ipynb)
+1. [Tic-Tac-Toe](https://github.com/naveensc052/AIML_LAB_PROGRAMS_RVCE/blob/main/1.ipynb)
+2. [Alpha-Beta-Pruning](https://github.com/naveensc052/AIML_LAB_PROGRAMS_RVCE/blob/main/2.ipynb)
+3. [A-Star](https://github.com/naveensc052/AIML_LAB_PROGRAMS_RVCE/blob/main/3.ipynb)
+4. [Hill-Climbing-Race](https://github.com/naveensc052/AIML_LAB_PROGRAMS_RVCE/blob/main/3.ipynb)
+5. [Logistic-Regression](https://github.com/naveensc052/AIML_LAB_PROGRAMS_RVCE/blob/main/3.ipynb)
+6. [Naive-Bayes](https://github.com/naveensc052/AIML_LAB_PROGRAMS_RVCE/blob/main/3.ipynb)
+7. [KNN](https://github.com/naveensc052/AIML_LAB_PROGRAMS_RVCE/blob/main/3.ipynb)
+8. [K-Means](https://github.com/naveensc052/AIML_LAB_PROGRAMS_RVCE/blob/main/3.ipynb)
